@@ -6,6 +6,8 @@ package com.euler.level1;
  * Find the sum of all the multiples of 3 or 5 below 1000.
  *
  * Solution: http://www.mathblog.dk/project-euler-problem-1/
+ *
+ * https://projecteuler.net/problem=1
  */
 public class Problem001 {
 
